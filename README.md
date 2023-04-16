@@ -26,10 +26,10 @@ sensors will be controlled from arduino uno with on board
 battery system .if required, the bot can be further modified to be
 controlled through RC for human interface to help the bot reach
 complicated areas and then start work on its own to reach areas
-of where there is a risk of human life on further modification we
+of where there is a risk of human life.an ip cam can(esp 32cam module interface) be also be introduced that can be controlled through cloud for easy human control, on further modification we
 can also incorporate the use of AI so that the bot can take
 decisions on its own and inform about the fire and the actions
-taken for the same.
+taken for the same.  currently our robot is basic due to budget and components constraints. but surely it will improve in future.
 
 ## Tech Used
 
