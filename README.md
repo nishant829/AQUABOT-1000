@@ -6,10 +6,12 @@ The main problem faced is unwanted household fires , fire in shops , fire due to
 
 
 ## Our Team-
-Nishant Kumar Rai | Mechanical Engineering | National Institute of Advanced Manufacturing Technology
-Ankit Kumar | Computer Engineering | National Institute of Advanced Manufacturing Technology
-Ujjwal Modak | Production And Industrial Engineering | National Institute of Advanced Manufacturing Technology
-Badal Kumar Soni | Mechanical Engineering | National Institute of Advanced Manufacturing Technology
+Nishant Kumar Rai | 
+Ankit Kumar | 
+Ujjwal Modak | 
+Badal Kumar Soni |
+National Institute of Advanced Manufacturing Technology
+
 
 
 ## Our Idea and Approach
