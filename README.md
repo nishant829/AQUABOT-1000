@@ -19,7 +19,7 @@ National Institute of Advanced Manufacturing Technology
 
 
 ## Our Idea and Approach
-we will make an integrated fire fighting system which can sense
+We will make an integrated fire fighting system which can sense
 fire through its iR sensor and can follow it for a certain distance
 and can shoot water for few seconds to extinguish fire all the
 sensors will be controlled from arduino uno with on board
@@ -30,3 +30,24 @@ of where there is a risk of human life on further modification we
 can also incorporate the use of AI so that the bot can take
 decisions on its own and inform about the fire and the actions
 taken for the same.
+
+## Tech Used
+
+Arduino Uno
+
+IR Flame Sensor Module
+
+Mini DC Water Pump
+
+DC Motor(200rpm)
+
+9g Servo Motor
+
+18650 Battery Pack
+
+M2Q Gas Sensor
+
+L298N Motor Driver
+
+L293 Module
+
