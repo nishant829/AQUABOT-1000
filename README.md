@@ -51,3 +51,7 @@ L298N Motor Driver
 
 L293 Module
 
+## Photos Url: https://drive.google.com/drive/folders/14SNAPiD6Dkvd0bsKYeXbMWdNdhG9PeWj?usp=share_link
+
+## Presentation URL: https://drive.google.com/file/d/1kyrYSy4Obw4v6GhA5YylmLvXhPeFys-o/view?usp=share_link
+
