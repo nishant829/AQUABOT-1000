@@ -45,7 +45,7 @@ DC Motor(200rpm)
 
 18650 Battery Pack
 
-M2Q Gas Sensor
+MQ2 Gas Sensor
 
 L298N Motor Driver
 
